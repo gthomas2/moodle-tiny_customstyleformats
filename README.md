@@ -1,2 +1,2 @@
 # moodle-tiny_customstyleformats
-custom style formatsurations for Tiny editor (Moodle's new Tiny MCE editor)
+Allows custom style format configuration for Tiny editor (Moodle's new Tiny MCE editor)
