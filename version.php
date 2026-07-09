@@ -25,6 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2023071001;
+$plugin->version   = 2026070900;
 $plugin->requires  = 2022111800;
 $plugin->component = 'tiny_customstyleformats';

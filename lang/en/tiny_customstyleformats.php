@@ -21,6 +21,7 @@
  * @license   https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 $string['pluginname'] = 'Tiny custom styles';
+$string['customstyleformats:use'] = 'Use TinyMCE custom styles';
 $string['config_json'] = 'Styles config JSON (array)';
 $string['config_json_desc'] = <<<STR
 The tiny mce styles configuration JSON that you would like to merge at run time.<br />
